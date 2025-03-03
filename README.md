@@ -77,7 +77,8 @@ jobs:
 You should see a number next to the "source control" in vscode. Go to source control and type in a name for the change "added ci/cd" and then click "commit" and push it to the main branch.
 
 Navigate back to your repo and click the "actions" tab and you should see the commit successful. You can now automatically make changes to your front end!!
-![image](https://github.com/user-attachments/assets/6db5f540-0700-4c9f-9331-44a12221c851)
+![Screenshot (85)](https://github.com/user-attachments/assets/18a6d1d6-3391-4e6e-9e4b-73858c34cdaa)
+
 
 
 
